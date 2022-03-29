@@ -1,0 +1,6 @@
+piVersion: v1
+kind: Namespace
+metadata:
+  name: static
+  labels:
+    name: static
